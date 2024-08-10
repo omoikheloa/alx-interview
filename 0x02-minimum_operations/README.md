@@ -1,0 +1,1 @@
+This project contains a Python function, minOperations, that calculates the minimum number of operations required to generate exactly n "H" characters in a text editor, starting with a single "H". The operations available are "Copy All" and "Paste".
